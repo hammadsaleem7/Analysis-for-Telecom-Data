@@ -29,18 +29,8 @@ This project involves a comprehensive analysis of telecommunications data using 
    - The project includes a news article about **Telstra** expanding its network reach in the **Middle East**, emphasizing the importance of **low latency** and **high network availability** in emerging markets.
    - This real-world example ties the data analysis to current industry trends, such as the growing demand for **international connectivity** and **high-speed data services**.
 
-#### GitHub Repository Structure:
-- **Power BI Dashboard**: The main Power BI file containing all the visualizations and data analysis.
-- **Dataset**: The raw data used for the analysis, including information on **total data traffic**, **pricing**, and **geographical distribution**.
-- **Documentation**: A detailed README file explaining the project, its objectives, and how to navigate the Power BI dashboard.
-- **Visualizations**: Exported images or interactive Power BI reports for easy viewing on GitHub.
-
 #### Why This Project?
 This project is ideal for anyone interested in **data analysis**, **telecommunications**, or **business intelligence**. It demonstrates how **Power BI** can be used to analyze complex datasets, uncover insights, and make data-driven decisions. The project is also a great example of how to present data visually, making it accessible to both technical and non-technical audiences.
 
-#### How to Use:
-- Clone the repository to your local machine.
-- Open the Power BI file to explore the interactive dashboard.
-- Refer to the README file for detailed instructions on navigating the dashboard and understanding the insights.
 
 This project is a valuable resource for **data analysts**, **business intelligence professionals**, and anyone looking to understand the telecommunications industry through data.
