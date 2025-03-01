@@ -1,8 +1,9 @@
-# Analysis-for-Telecom-Data
-Power BI Analysis for Telecom Data
+# Power BI Analysis for Telecom Data
 
 
-### Project Description: Data Analysis: A Power BI Dashboard for Regional Pricing, Traffic, and Cost Optimization
+
+## Project Description: 
+### Data Analysis: A Power BI Dashboard for Regional Pricing, Traffic, and Cost Optimization
 
 This project involves a comprehensive analysis of telecommunications data using **Power BI**, a powerful business analytics tool by Microsoft. The dataset includes detailed information on various telecommunications companies such as **Belgacom**, **France Telecom**, **TATA**, and **Telstra**, focusing on their operations across different geographical regions. The analysis provides insights into key metrics such as **total data traffic**, **average pricing**, **cost savings**, and **geographical distribution** of services.
 
